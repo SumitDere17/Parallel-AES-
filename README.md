@@ -40,6 +40,3 @@ The code was executed and tested with a uniformly random dataset of 100 files to
 
 The results are concurrent with that of those published in the paper.  
 
-## Contributors
-1. Gurupungav Narayanan 16CO128 
-2. Nihal Haneef 16CO114  
